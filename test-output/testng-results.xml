@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100" started-at="2020-08-29T14:57:30Z" finished-at="2020-08-29T14:57:31Z">
+    <groups>
+    </groups>
+    <test name="testng" duration-ms="100" started-at="2020-08-29T14:57:30Z" finished-at="2020-08-29T14:57:31Z">
+      <class name="Mavenjob.Mavenjob.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:Mavenjob.Mavenjob.AppiumTest@58651fd0]" name="IOSApps" duration-ms="3" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:Mavenjob.Mavenjob.AppiumTest@58651fd0]" name="nativeAppAndroid" duration-ms="2" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- Mavenjob.Mavenjob.AppiumTest -->
+      <class name="Mavenjob.Mavenjob.RestAPiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:Mavenjob.Mavenjob.RestAPiTest@4520ebad]" name="deleteTwitter" duration-ms="4" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:Mavenjob.Mavenjob.RestAPiTest@4520ebad]" name="postJira" duration-ms="5" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- Mavenjob.Mavenjob.RestAPiTest -->
+      <class name="Mavenjob.Mavenjob.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Mavenjob.Mavenjob.SeleniumTest@735b5592]" name="BrowserAutomation" duration-ms="12" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:Mavenjob.Mavenjob.SeleniumTest@735b5592]" name="elementsUi" duration-ms="2" started-at="2020-08-29T14:57:31Z" finished-at="2020-08-29T14:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- Mavenjob.Mavenjob.SeleniumTest -->
+    </test> <!-- testng -->
+  </suite> <!-- Suite -->
+</testng-results>
